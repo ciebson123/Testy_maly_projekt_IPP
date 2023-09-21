@@ -1,2 +1,2 @@
-# Testy_maly_projekt_IPP
+# Testy maly projekt IPP
 Testy do małogo projektu IPP 2020
